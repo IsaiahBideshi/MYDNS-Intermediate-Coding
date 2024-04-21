@@ -4,6 +4,7 @@ This is the final project done for the MYDNS Intermediate Level Coding course co
 This website was done entirely in html, css and php as instructed by the teacher.
 
 ABOUT THE PROJECT
+
 Design and create a simple online Web-based Voting System for the best restaurant in Trinidad and 
 Tobago. 
 You will work on this program throughout the course and update it with features taught in every 
